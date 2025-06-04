@@ -23,3 +23,5 @@
 #### Finally Build the job
 #### Killing the docker container and editing the app.js to check the upated job
 #### Again build job 
+
+![](https://github.com/deepakbehera11/jenkins-pipeline-ci-cd/blob/5a5f115dffeb21d6b1cc282f3f2b0f5bd2cd3b05/asset/Screenshot%202025-06-04%20205051.png)
