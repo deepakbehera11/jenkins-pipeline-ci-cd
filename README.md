@@ -13,7 +13,7 @@
 #### Create a new repo in GitHub, cloning the repo on the EC2 server 
 #### Creating a sample code of app.js, package.js, dockerfile, and jenkinsfile
 #### Pushing changes to the repo
-# 3
+# II
 #### Adding GitHub server and credentials-PAT from GitHub 
 #### Creating a job
 #### Assigning source code management as Git
