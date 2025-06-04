@@ -3,17 +3,17 @@
 #### Set up a basic Jenkins pipeline to automate the process of building and deploying an application.
 ## Tools:
 #### Jenkins, Docker
-## Setup & Usage
+## Setup & Usage ~ I
 #### - Connecting EC2 server
 #### - Installing jenkins
 #### - Installing plugins in jenkins
 #### - Installing Docker in EC2 srever
-# I
+# ~ II
 #### Creating PAT- Personal Access Token in GitHub for authorisation
 #### Create a new repo in GitHub, cloning the repo on the EC2 server 
 #### Creating a sample code of app.js, package.js, dockerfile, and jenkinsfile
 #### Pushing changes to the repo
-# II
+# ~ III
 #### Adding GitHub server and credentials-PAT from GitHub 
 #### Creating a job
 #### Assigning source code management as Git
